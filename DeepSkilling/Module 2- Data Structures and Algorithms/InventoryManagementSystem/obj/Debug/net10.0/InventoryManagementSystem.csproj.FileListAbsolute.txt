@@ -1,0 +1,14 @@
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.exe
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.deps.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.runtimeconfig.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net10.0\refint\InventoryManagementSystem.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net10.0\ref\InventoryManagementSystem.dll
